@@ -14,6 +14,8 @@ Para a realização do projeto, será considerado o seguinte planejamento :
 3. Análise Exploratória dos Dados
 4. Apresentação do Resultado
 # Saiba um pouco mais sobre o Soro anti escorpiônico
+<img src="/docs/soro.png" alt="Imagem Principal" vertical-align: middle/></img>
+
 No organismo humano, o veneno dos escorpiões do gênero Tityus (escorpião amarelo, escorpião marrom,
 escorpião preto e etc) causa alterações na região da picada, principalmente dor. O veneno age também no
 sistema nervoso autônomo, que controla a temperatura corporal e as funções de digestão, respiração e
